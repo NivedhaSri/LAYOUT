@@ -1,0 +1,29 @@
+
+
+
+.header {
+  padding: 20px;
+  text-align: center;
+  border-style: double;
+  border-width: 25px;
+  border-color: grey;
+  background: white;
+  color: black;
+  font-size: 30px;
+}
+
+
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  border-style: double;
+  border-width: 15px;
+  border-color: grey;
+  background: white;
+  color: black;
+  padding: -10px;
+  text-align: center;
+  color:black;
+}
